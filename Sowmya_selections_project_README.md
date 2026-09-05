@@ -1,4 +1,4 @@
-# Customer Fabric Purchase Analysis (SQL)
+# Sowmya selections Analysis (SQL)
 
 A MySQL analysis of a real fabric/clothing business's customer purchase log,
 spanning December to May. Unlike a typical order-level e-commerce dataset,
@@ -11,7 +11,7 @@ behavior, regional demand, and product popularity** rather than revenue.
 - Columns: `s_no`, `customer_name`, `city`, `state`, `phone_number`,
   `fabric_purchased`, `purchase_month`
 - Note: `fabric_purchased` can contain multiple comma-separated fabric names
-  in a single cell (e.g. `"Cotton, Silk"`)
+  in a single cell (e.g. `"Black kota, Radha krisha saree"`)
 - `phone_number` is used as a stand-in for a unique customer ID, since no
   formal customer ID exists in the source data
 
