@@ -8,7 +8,7 @@
 -- fabric names in a single cell (e.g. "Cotton, Silk").
 -- =====================================================
 
-USE your_database_name;  -- update to your actual database name
+            **Confidiential data**
 
 -- =====================================================
 -- SCHEMA & LOAD (for reference / reproducing the import)
